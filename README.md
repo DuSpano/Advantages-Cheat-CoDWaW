@@ -1,3 +1,3 @@
 # GameMemoryProjects
 
-A simple cheat project for Call Of Duty World at War, I'm a beginner may contain some errors.
+A simple cheat project for Call Of Duty World at War, I'm a beginner ;)
